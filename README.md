@@ -1,4 +1,4 @@
-<img width="2048" height="1151" alt="img" src="https://github.com/user-attachments/assets/53eec8e1-3882-4b8d-8654-e560ba49b957" />
+<img width="100%" height="300" alt="img" src="https://github.com/user-attachments/assets/53eec8e1-3882-4b8d-8654-e560ba49b957" />
 
 ### Hi there, I am Xinlin👋
 
